@@ -1,0 +1,7 @@
+{
+  "BASE_URL_MAPBOX": "https://api.mapbox.com",
+  "BASE_URL_PRAYER_TIME": " http://api.aladhan.com/v1",
+  "MAPBOX_ACCESS_TOKEN": "pk.eyJ1Ijoicnhhbm5lIiwiYSI6ImNqdzJqeGVudDB1a200Y2t0Y3g5M3B6NHkifQ.WxQWLo6In2_ZoRISZ-Pg7A",
+  "IAC_BASE_URL": "http://193.176.242.170:7070/api",
+  "CLIENT_ID": "8a0c13f1-6179-4667-8238-8507b28f09ff"
+}

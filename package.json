@@ -1,0 +1,51 @@
+{
+  "name": "IAC",
+  "version": "0.0.1",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts/"
+    ]
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.5.0",
+    "@react-native-community/netinfo": "^3.2.1",
+    "axios": "^0.19.0",
+    "lodash": "^4.17.11",
+    "lottie-react-native": "^2.6.1",
+    "moment-jalaali": "^0.8.3",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-country-picker-modal": "^0.7.1",
+    "react-native-dropdownalert": "^4.0.2",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-parallax-scroll-view": "^0.21.3",
+    "react-native-push-notification": "git+https://github.com/MaximusBaton/react-native-push-notification.git",
+    "react-native-render-html": "^4.1.2",
+    "react-native-restart": "0.0.10",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-sensors": "^5.3.0",
+    "react-native-shadow": "^1.2.2",
+    "react-native-sound": "^0.10.12",
+    "react-native-svg": "^9.5.1",
+    "react-native-swiper": "^1.5.14",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
